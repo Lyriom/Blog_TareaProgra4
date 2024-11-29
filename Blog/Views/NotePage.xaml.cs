@@ -1,4 +1,4 @@
-namespace Blog;
+namespace Blog.Views;
 
 public partial class NotePage : ContentPage
 {
